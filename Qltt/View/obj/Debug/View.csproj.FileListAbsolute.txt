@@ -1,0 +1,9 @@
+D:\04. My Apps\QLTT2022\Qltt\View\bin\Debug\View.exe.config
+D:\04. My Apps\QLTT2022\Qltt\View\bin\Debug\View.exe
+D:\04. My Apps\QLTT2022\Qltt\View\bin\Debug\View.pdb
+D:\04. My Apps\QLTT2022\Qltt\View\obj\Debug\View.csprojAssemblyReference.cache
+D:\04. My Apps\QLTT2022\Qltt\View\obj\Debug\View.Properties.Resources.resources
+D:\04. My Apps\QLTT2022\Qltt\View\obj\Debug\View.csproj.GenerateResource.cache
+D:\04. My Apps\QLTT2022\Qltt\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+D:\04. My Apps\QLTT2022\Qltt\View\obj\Debug\View.exe
+D:\04. My Apps\QLTT2022\Qltt\View\obj\Debug\View.pdb
