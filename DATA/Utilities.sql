@@ -1,4 +1,6 @@
 ﻿/* CÁC PROC VÀ HÀM TIỆN ÍCH (SỬ DỤNG CHUNG) */
+USE QLHD
+GO
 
 CREATE PROC USP_CopyFileBySQL @stFileSource NVARCHAR(MAX), @stFileDest NVARCHAR(MAX)
 AS
